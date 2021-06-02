@@ -4,7 +4,7 @@ I am a self driven software engineer who has a passion for web and mobile develo
 
 ![image](https://user-images.githubusercontent.com/35618554/119403163-890db480-bca3-11eb-865c-0e158286f9a3.png)</br>
 
-![image](https://user-images.githubusercontent.com/35618554/119403002-59f74300-bca3-11eb-9a22-8b1e81e088f0.png)
+
 
 
 
