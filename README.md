@@ -2,7 +2,7 @@
 
 I am a self driven software engineer who has a passion for web and mobile development. I have won multiple awards and have created multiple projects in various programming languages.
 
-![image](https://user-images.githubusercontent.com/35618554/119403163-890db480-bca3-11eb-865c-0e158286f9a3.png)</br>
+![image](https://user-images.githubusercontent.com/35618554/120551584-d254b700-c3bb-11eb-9443-34856b6a7fca.png)</br>
 
 
 
